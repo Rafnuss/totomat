@@ -1,0 +1,11 @@
+body{
+ width: 1100px;
+ margin: auto;
+}
+p{
+   font-family: "Arial",sans-serif;
+}
+h2{
+   font-family: "Arial",sans-serif;
+   color: rgb(64, 132, 24);
+}
