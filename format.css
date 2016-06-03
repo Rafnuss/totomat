@@ -1,0 +1,64 @@
+a:link{
+color: rgb(47,73,159);
+font-weight :bold; 
+text-decoration: none;
+}
+
+a:visited{
+color: rgb(47,73,159);
+font-weight: bold;
+text-decoration: none;
+}
+
+a:hover{
+color: rgb(47,73,159);
+font-weight: bold;
+text-decoration: underline;
+}
+
+a:active{
+color: rgb(47,73,159);
+font-weight: bold;
+text-decoration: none;
+}
+
+body{
+font-family:"Bookman",serif;
+}
+
+h1{
+font-family:"Arial",sans-serif;
+font-style: normal;
+color: rgb(47,73,159);
+text-align: left;
+}
+
+div.text{
+font-size: 110%;
+}
+
+a.text{
+font-size: 110%;
+}
+
+table.text{
+font-size: 110%;
+}
+
+div.title{
+font-family:"Arial",sans-serif;
+font-style: normal;
+font-size: 130%;
+}
+
+table.rahmen{
+border-style: solid;
+border-color: rgb(47,73,159);
+}
+
+td.hinterlegt{
+background-color: rgb(47,73,159);
+color: rgb(255,255,255);
+font-weight: bold;
+text-align: center;
+}
